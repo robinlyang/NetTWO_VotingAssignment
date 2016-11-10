@@ -10,6 +10,10 @@ namespace NetTWO_VotingAssignment
     {
         static void Main(string[] args)
         {
+            string[] voting = { "X012033001140", "C075100026080", "A050070060100", "Q040088050090" };
+            //Print out Table
+
+
         }
     }
 }
